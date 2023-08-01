@@ -1,0 +1,5 @@
+[
+{"title":"Escuadra","price":"123.45","thumbnail":"https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/wp-content/uploads/sites/2/2013/11/14-Leche.png","id":1},
+{"title":"Calculadora","price":"234.56","thumbnail":"https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/wp-content/uploads/sites/2/2013/11/14-Leche.png","id":2},
+{"title":"Globo Terráqueo","price":"345.67","thumbnail":"https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/wp-content/uploads/sites/2/2013/11/14-Leche.png","id":3}
+]
